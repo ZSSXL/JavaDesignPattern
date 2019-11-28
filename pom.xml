@@ -5,9 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zss</groupId>
-    <artifactId>BuilderMode</artifactId>
+    <artifactId>JavaDesignPattern</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>Jar</packaging>
+    <modules>
+        <module>BuilderMode</module>
+        <module>ProxyMode</module>
+    </modules>
+    <packaging>pom</packaging>
 
 
 </project>
