@@ -12,6 +12,7 @@
         <module>ProxyMode</module>
     </modules>
     <packaging>pom</packaging>
+    <description>设计模式学习 - DesignPattern</description>
 
 
 </project>
