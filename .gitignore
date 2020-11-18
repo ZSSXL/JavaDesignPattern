@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 .idea
 .mvn
@@ -6,3 +7,8 @@ mvnw
 mvnw.cmd
 
 *.iml
+=======
+.idea
+/target/
+*.iml
+>>>>>>> edffeec906b15c1a6436c669c9316c7e79e67653
